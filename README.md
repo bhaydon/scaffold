@@ -1,3 +1,3 @@
 # scaffold
 This is a project scaffold for Python
-(Bruce Haydon - Ottawa, Ontario)
+(Bruce Haydon - Ottawa, New York, Toronto)
