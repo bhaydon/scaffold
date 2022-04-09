@@ -16,6 +16,9 @@ jobs:
        python-version: 3.8
     - name: Install dependencies
       run: |
+        make install
+    - name: Lint with Pylint
+      run: |
         make lint
     - name: Test with Pytest
       run: |
