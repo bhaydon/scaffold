@@ -26,16 +26,3 @@ jobs:
     - name: Format Code with Python black
       run: |
         make format
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
