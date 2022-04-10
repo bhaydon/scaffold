@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 # (Bruce Haydon - New York)
 
-name: Python 3.7.3 (Azure environment) application test with GitHub Actions
+name: Python 3.7.3 Azure application test with GitHub Actions
 # following command means it is executed on every push (Continuous Integration)
 
 on: [push]
