@@ -1,5 +1,5 @@
 # This is a basic workflow to help you get started with Actions
-# (Bruce Haydon - JP Morgan Chase, New York)
+# (Bruce Haydon - New York)
 
 name: Python application test with GitHub Actions
 # following command means it is executed on every push (Continuous Integration)
